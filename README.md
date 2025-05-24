@@ -20,7 +20,7 @@ Estudante de **Ciência da Computação** apaixonado(a) por tecnologia e com gra
     * 🌐 Dominar as tecnologias essenciais para o **Desenvolvimento Web** (HTML, CSS, JavaScript, e frameworks relevantes).
     * 🛠️ Construir projetos práticos para aplicar o conhecimento adquirido.
  
-      ## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 * **Aprendendo:** Conceitos de Lógica de Programação, Estruturas de Dados, Algoritmos.
 * **Pretendo Aprender:** Java, Spring Boot, HTML, CSS, JavaScript, React/Angular/Vue, Node.js, Bancos de Dados (SQL/NoSQL), Git.
